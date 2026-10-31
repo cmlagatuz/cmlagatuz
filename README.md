@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+  <!-- Website is down for now. Restore when cmlagatuz.dev is back:
   <a href="https://cmlagatuz.dev"><img src="https://img.shields.io/badge/Website-cmlagatuz.dev-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  -->
   <a href="https://orcid.org/0009-0005-3575-4253"><img src="https://img.shields.io/badge/ORCID-0009--0005--3575--4253-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://github.com/cmlagatuz"><img src="https://img.shields.io/badge/GitHub-cmlagatuz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
@@ -62,20 +64,11 @@ I work at the intersection of **security**, **game development**, and **research
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cmlagatuz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmlagatuz&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to **security research collaboration**, **game dev projects**, and conversations about **AI and defense**.
 
-- 🌐 Portfolio: [cmlagatuz.dev](https://cmlagatuz.dev)
+<!-- - 🌐 Portfolio: [cmlagatuz.dev](https://cmlagatuz.dev) (restore when the site is back) -->
 - 📚 Research: [ORCID](https://orcid.org/0009-0005-3575-4253)
 
 <p align="center"><i>"Security is not a product, but a process."</i> — Bruce Schneier</p>
