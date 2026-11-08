@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carl Michael Lagatuz 👋</h1>
+<h1 align="center">Hi, I'm Carl Michael Lagatuz</h1>
 
 <p align="center">
   <b>Cybersecurity Specialist · Game Developer · Researcher</b><br>
