@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Carl Michael Lagatuz</title>
+<desc id="desc">Security, artificial intelligence and game development. Build with curiosity. Improve with purpose.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#191b30"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#79b8ff"/><stop offset="1" stop-color="#b8a1ff"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c9d1d9" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#bg)" stroke="#303645"/>
+<rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#grid)"/>
+<path d="M48 61H112" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+<text x="48" y="104" fill="#a9b4c7" font-family="monospace" font-size="16" letter-spacing="3">CMLAGATUZ / PERSONAL LAB</text>
+<text x="46" y="169" fill="#f0f3fa" font-family="Arial, sans-serif" font-size="49" font-weight="700">Carl Michael Lagatuz</text>
+<text x="48" y="214" fill="#b8caff" font-family="Arial, sans-serif" font-size="23">Security · Artificial Intelligence · Game Development</text>
+<text x="48" y="280" fill="#a9b4c7" font-family="Arial, sans-serif" font-size="20">Build with curiosity. Improve with purpose.</text>
+<g fill="none" stroke="url(#accent)" stroke-width="1.5">
+ <path d="m1000 68 87 50v101l-87 50-87-50V118Z" opacity=".55"/>
+ <path d="m1000 106 54 31v63l-54 31-54-31v-63Z" opacity=".8"/>
+ <path d="M913 118 1054 200M1087 118 946 200M1000 68v201" opacity=".2"/>
+</g>
+<text x="1000" y="186" text-anchor="middle" fill="#c3b3ff" font-family="monospace" font-size="40">&lt;/&gt;</text>
+</svg>
