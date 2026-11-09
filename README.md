@@ -1,81 +1,116 @@
-<h1 align="center">Hi, I'm Carl Michael Lagatuz</h1>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Carl Michael Lagatuz — Security, Artificial Intelligence and Game Development. Build with curiosity. Improve with purpose.">
+</p>
+
+<h1 align="center">Hi, I'm Carl.</h1>
 
 <p align="center">
   <b>Cybersecurity Specialist · Game Developer · Researcher</b><br>
-  <i>Breaking things to secure them, building worlds to play in, and writing down what I learn.</i>
+  Exploring secure systems, personal AI, and interactive worlds.
 </p>
 
 <p align="center">
-  <a href="https://cmlagatuz.dev"><img src="https://img.shields.io/badge/Website-cmlagatuz.dev-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://orcid.org/0009-0005-3575-4253"><img src="https://img.shields.io/badge/ORCID-0009--0005--3575--4253-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://github.com/cmlagatuz"><img src="https://img.shields.io/badge/GitHub-cmlagatuz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://cmlagatuz.dev"><img src="https://img.shields.io/badge/Portfolio-cmlagatuz.dev-202633?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=9BBEFF" alt="Visit my portfolio"></a>
+  <a href="https://orcid.org/0009-0005-3575-4253"><img src="https://img.shields.io/badge/Research-ORCID-202633?style=for-the-badge&amp;logo=orcid&amp;logoColor=C4B5FD" alt="View my ORCID research profile"></a>
 </p>
-
----
-
-## 🧭 About Me
-
-I work at the intersection of **security**, **game development**, and **research**. By day I defend systems; the rest of the time I build games, experiment with AI, and publish what I find.
-
-- 🔐 **Cybersecurity:** securing systems, hunting weaknesses, thinking like an attacker so defenders don't have to guess
-- 🎮 **Game development:** designing and building games, from mechanics to mobile
-- 🔬 **Research:** open, citable work, tracked on [ORCID](https://orcid.org/0009-0005-3575-4253)
-- 🤖 **Tinkering with AI:** building an AI executive from scratch as a foundation for future projects
-- 🏠 Working from home
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**CLAIRE**](https://github.com/cmlagatuz/CLAIRE) | **C**entralized **L**ogic **A**nd **I**ntelligent **R**ecord **E**xecutive. An AI executive built from scratch to be the source of upcoming AI projects. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**Project-D**](https://github.com/cmlagatuz/Project-D) | A Final Fantasy-inspired MOBA game for mobile. | ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white) |
-| [**dawney-clinic**](https://github.com/cmlagatuz/dawney-clinic) | A web-based tracking system for a veterinary clinic. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| [**safwat-recruitment-toolkit**](https://github.com/cmlagatuz/safwat-recruitment-toolkit) | A recruitment toolkit for Safwat. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-
----
-
-## 🛠️ Tech & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-<!-- Add what you actually use, for example:
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
--->
-
----
-
-## 🔭 Currently
-
-- 🧠 Developing **CLAIRE** into a foundation for future AI projects
-- 🕹️ Building out **Project-D**
-- 🧪 Researching and documenting findings for publication
-- 🌱 Always learning something new in security
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cmlagatuz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmlagatuz&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+  <a href="#featured-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#tools-in-my-projects">Tools</a> &nbsp; / &nbsp;
+  <a href="#current-focus">Current focus</a> &nbsp; / &nbsp;
+  <a href="#lets-connect">Connect</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## About me
 
-I'm open to **security research collaboration**, **game dev projects**, and conversations about **AI and defense**.
+I build across **cybersecurity, AI, game development, and practical web applications**. My projects range from a personal AI assistant that runs on a PC to a mobile MOBA and tools that simplify recruitment workflows.
 
-- 🌐 Portfolio: [cmlagatuz.dev](https://cmlagatuz.dev)
-- 📚 Research: [ORCID](https://orcid.org/0009-0005-3575-4253)
+I'm interested in how systems work, how they can fail, and how thoughtful interfaces make them easier to use. This profile brings together my experiments, ongoing projects, and research.
 
-<p align="center"><i>"Security is not a product, but a process."</i> — Bruce Schneier</p>
+## Featured projects
+
+### C.L.A.I.R.E. · Personal AI
+
+A personal AI assistant built around local models, voice interaction, memory, and a desktop web interface. Its action workflow asks for permission before carrying out supported tasks on the PC.
+
+**Built with:** Python · Ollama  
+[Explore CLAIRE →](https://github.com/cmlagatuz/CLAIRE)
+
+### Project D · Zantetsuken
+
+A mobile-first 5v5 MOBA project built in Unity, exploring touch controls, customizable HUDs, combat systems, and a playable duel test bed. A fan-made, educational, non-commercial project inspired by Dissidia.
+
+**Built with:** Unity · C# · Universal Render Pipeline  
+[Explore Project D →](https://github.com/cmlagatuz/Project-D) · [Duel demo guide](https://github.com/cmlagatuz/Project-D/blob/main/docs/duel-demo.md)
+
+### Safwat Recruitment Toolkit · Workflow tools
+
+A browser-based workspace for recruitment pipelines, visa reporting, client operations, and document tasks. Brings candidate follow-ups, reporting, and everyday administrative tools into one interface.
+
+**Built with:** JavaScript · HTML · CSS · Firebase  
+[Explore the toolkit →](https://github.com/cmlagatuz/safwat-recruitment-toolkit)
+
+### Ryzen VPN · Android
+
+A native Android VPN client using WireGuard, with configuration import, location selection, and connection controls.
+
+**Built with:** Kotlin · Android · WireGuard  
+[Explore Ryzen VPN →](https://github.com/cmlagatuz/Ryzen-VPN)
+
+<details>
+<summary><b>More from my workspace</b></summary>
+
+<br>
+
+[**Dawney Clinic**](https://github.com/cmlagatuz/dawney-clinic) — A web-based veterinary clinic tracking project.
+
+[**Browse all repositories →**](https://github.com/cmlagatuz?tab=repositories)
+
+</details>
+
+## Tools in my projects
+
+| Area | Languages & tools |
+| :--- | :--- |
+| AI & automation | Python, Ollama |
+| Game development | C#, Unity, URP |
+| Web applications | JavaScript, HTML, CSS, Firebase |
+| Android | Kotlin, Android SDK, WireGuard |
+| Development workflow | Git, GitHub |
+
+## Current focus
+
+- **Personal AI:** developing CLAIRE's voice, memory, and user-controlled actions.
+- **Game development:** refining Project D's combat, interface, and mobile experience.
+- **Practical software:** making recruitment workflows and Android tools easier to use.
+- **Security & research:** exploring systems and documenting what I learn.
+
+<details>
+<summary><b>GitHub activity & language overview</b></summary>
+
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cmlagatuz&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b8a1ff&amp;icon_color=79b8ff&amp;text_color=c9d1d9" width="440" alt="Carl's GitHub activity statistics, provided by GitHub Readme Stats">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmlagatuz&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b8a1ff&amp;text_color=c9d1d9" width="360" alt="Language distribution across public repositories, provided by GitHub Readme Stats">
+</p>
+
+These optional cards depend on an external service. Language totals reflect repository contents, not proficiency.
+
+[View my activity directly on GitHub →](https://github.com/cmlagatuz?tab=overview)
+
+</details>
+
+---
+
+## Let's connect
+
+I'm open to conversations and collaboration around **security research, personal AI, game development, and useful software**.
+
+[**Visit my portfolio**](https://cmlagatuz.dev) · [**Explore my research profile**](https://orcid.org/0009-0005-3575-4253)
+
+<p align="center"><sub>Curiosity → experiments → better tools.</sub></p>
