@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Carl Michael Lagatuz — Security, Artificial Intelligence and Game Development. Build with curiosity. Improve with purpose.">
+  <img src="./assets/profile-header.svg" width="100%" alt="Zantetsuken — Security, Artificial Intelligence and Game Development. Build with curiosity. Improve with purpose.">
 </p>
 
-<h1 align="center">Hi, I'm Carl.</h1>
+<h1 align="center">Hi, I'm Zantetsuken.</h1>
 
 <p align="center">
   <b>Cybersecurity Specialist · Game Developer · Researcher</b><br>
